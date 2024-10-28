@@ -17,3 +17,12 @@ button {
 .header {
   background-color: lightblue;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: green;
+}
